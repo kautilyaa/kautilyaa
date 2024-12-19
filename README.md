@@ -59,12 +59,23 @@ Here are some ideas to get you started:
 ![Arunbh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunbh&show_icons=true&theme=github_dark)
 
 ---
+<!--
 
 ## 🌐 Let's Connect!
 
 - **LinkedIn**: [linkedin.com/in/arunbh](https://linkedin.com/in/arunbh-yashaswi/)  
 - **Email**: [arunbh.y@gmail.com](mailto:arunbh.y@gmail.com)  
 - **GitHub**: [github.com/arunbh](https://github.com/arunbh)
+
+-->
+
+
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arunbh-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunbh)
+[![GitHub](https://img.shields.io/badge/GitHub-Arunbh-black?logo=github&logoColor=white)](https://github.com/arunbh)
+[![Email](https://img.shields.io/badge/Email-arunbh.y@gmail.com-red?logo=gmail&logoColor=white)](mailto:arunbh.y@gmail.com)
 
 ---
 
