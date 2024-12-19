@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arunbh-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunbh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arunbh-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunbh-yashaswi)
 [![GitHub](https://img.shields.io/badge/GitHub-Arunbh-black?logo=github&logoColor=white)](https://github.com/arunbh)
 [![Email](https://img.shields.io/badge/Email-arunbh.y@gmail.com-red?logo=gmail&logoColor=white)](mailto:arunbh.y@gmail.com)
 
