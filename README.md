@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Let's Connect!
 
-- **LinkedIn**: [linkedin.com/in/arunbh](https://linkedin.com/in/arunbh)  
+- **LinkedIn**: [linkedin.com/in/arunbh](https://linkedin.com/in/arunbh-yashaswi/)  
 - **Email**: [arunbh.y@gmail.com](mailto:arunbh.y@gmail.com)  
 - **GitHub**: [github.com/arunbh](https://github.com/arunbh)
 
