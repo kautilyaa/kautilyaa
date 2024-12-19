@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - **Other Skills**: Statistical Analysis, A/B Testing, Time-Series Analysis, Feature Engineering
 
 ---
-
+<!--
 ## 🚀 Projects
 
 ### 1. [Low-Cost Recommendation System](https://github.com/arunbh/low-cost-recommendation-system)
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - Integrated with a Flask API for seamless deployment on cloud infrastructure.
 
 ---
-
+-->
 ## 📈 GitHub Stats
 
 ![Arunbh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunbh&show_icons=true&theme=github_dark)
