@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Arunbh Yashaswi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arunbh-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunbh-yashaswi)
-[![GitHub](https://img.shields.io/badge/GitHub-Arunbh-black?logo=github&logoColor=white)](https://github.com/arunbh)
+[![GitHub](https://img.shields.io/badge/GitHub-Arunbh-black?logo=github&logoColor=white)](https://arunbhy.github.io/)
 [![Email](https://img.shields.io/badge/Email-Arunbh-red?logo=gmail&logoColor=white)](mailto:arunbh.y@gmail.com)
 
 ## 💻 About Me
