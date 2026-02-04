@@ -10,7 +10,7 @@ Data Scientist and ML Engineer building production-ready AI systems that actuall
 
 - 🏢 **3+ years** at **UnitedHealth Group** building document intelligence & NLP systems for healthcare
 - 🎓 **MS in Data Science** @ University of Maryland (GPA: 3.95) | Graduating May 2026
-- 🏆 **USPTO Patent Holder** | UHG Inventor Award recipient for ML innovation
+<!-- - 🏆 **USPTO Patent Holder** | UHG Inventor Award recipient for ML innovation -->
 - 🔬 Currently: Graduate Research Assistant @ UMD | Former Data Science Intern @ VITG
 - 💡 Focused on: **Healthcare AI** • **Document Intelligence** • **Production MLOps** • **Agentic Systems**
 
