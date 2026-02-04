@@ -104,7 +104,7 @@ Currently seeking **Data Scientist**, **ML Engineer**, or **Computer Vision Engi
 - End-to-end ownership (research → deployment) is valued
 - Mentorship and collaboration drive team culture
 
-**📧 Reach out:** [arunbhy@umd.edu](mailto:arunbhy@umd.edu) | **🔗 LinkedIn:** [arunbh-yashaswi](https://linkedin.com/in/arunbh-yashaswi)
+**📧 Reach out:** [arunbhy@umd.edu](mailto:arunbhy@gmail.com) | **🔗 LinkedIn:** [arunbh-yashaswi](https://linkedin.com/in/arunbh-yashaswi)
 
 ---
 
