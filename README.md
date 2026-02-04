@@ -1,90 +1,127 @@
-<!--
-## Hi there 👋
-
-**kautilyaa/kautilyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Arunbh Yashaswi
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arunbh-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunbh-yashaswi)
-[![GitHub](https://img.shields.io/badge/GitHub-Arunbh-black?logo=github&logoColor=white)](https://arunbhy.github.io/)
-[![Email](https://img.shields.io/badge/Email-Arunbh-red?logo=gmail&logoColor=white)](mailto:arunbh.y@gmail.com)
 
-## 💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arunbh-yashaswi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arunbhy.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunbhy@umd.edu)
 
-- 🔭 **Passionate Data Scientist and AI Enthusiast** with expertise in machine learning, deep learning, and data analysis.
-- 🎓 Currently pursuing a Master’s in Data Science at the **University of Maryland**.
-- 🌟 Dedicated to applying cutting-edge AI techniques to solve real-world problems and create impactful solutions.
+## 🎯 About Me
+
+Data Scientist and ML Engineer building production-ready AI systems that actually work under pressure.
+
+- 🏢 **3+ years** at **UnitedHealth Group** building document intelligence & NLP systems for healthcare
+- 🎓 **MS in Data Science** @ University of Maryland (GPA: 3.95) | Graduating May 2026
+- 🏆 **USPTO Patent Holder** | UHG Inventor Award recipient for ML innovation
+- 🔬 Currently: Graduate Research Assistant @ UMD | Former Data Science Intern @ VITG
+- 💡 Focused on: **Healthcare AI** • **Document Intelligence** • **Production MLOps** • **Agentic Systems**
+
+> *"The best ML work isn't polished demos—it's systems that hold up when real users depend on them."*
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Core**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**ML/DL Frameworks**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+
+**MLOps & Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+**Specializations**  
+`NLP` • `Computer Vision` • `Document Intelligence` • `Time-Series Forecasting` • `A/B Testing` • `Statistical Modeling` • `Agentic AI`
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🚀 Featured Projects
 
-- **Programming Languages**: Python, C++, SQL, JavaScript  
-- **Machine Learning Frameworks**: PyTorch, TensorFlow, scikit-learn  
-- **Deep Learning Models**: CNNs, RNNs, LSTMs, Transformers (BERT, GPT)  
-- **Data Engineering**: Apache Spark, Hadoop, Airflow  
-- **Data Visualization**: Matplotlib, Seaborn, Tableau, Power BI  
-- **Cloud Platforms**: AWS (SageMaker), Microsoft Azure, Google Cloud  
-- **Databases**: MySQL, PostgreSQL, MongoDB  
-- **Other Skills**: Statistical Analysis, A/B Testing, Time-Series Analysis, Feature Engineering
+### 🏥 [SafeSim – Medical Text Simplification](https://github.com/kautilyaa/safesim)
+**Neuro-symbolic AI for healthcare communication**  
+Making clinical text accessible without sacrificing accuracy through neural LMs + deterministic verification.  
+`PyTorch` `Transformers` `Medical NER` `Entity Preservation`
 
----
-<!--
-## 🚀 Projects
+### ✈️ [TravelGenie – Multi-Agent Travel Planner](https://github.com/kautilyaa/TravelGenie)
+**Orchestrating 7 specialized services via Claude + MCP**  
+Production-grade agentic system coordinating flights, hotels, weather, finance in real-time.  
+`Claude API` `Model Context Protocol` `FastAPI` `Distributed Systems`
 
-### 1. [Low-Cost Recommendation System](https://github.com/arunbh/low-cost-recommendation-system)
-- Developed a recommendation system leveraging intelligent social networking clusters.
-- Enhanced personalized content delivery through collaborative and content-based filtering techniques.
+### 📄 [LiveTranslatorScreen – Manga Localization Pipeline](https://github.com/kautilyaa/LiveTranslatorScreen)
+**End-to-end document intelligence for visual media**  
+Automated OCR → Translation → Visual restoration pipeline reducing manual effort by 80%.  
+`Computer Vision` `OCR` `Sequence Models` `Image Processing`
 
-### 2. [AI-Powered Sentiment Analysis](https://github.com/arunbh/sentiment-analysis)
-- Built a natural language processing pipeline using transformers for sentiment analysis.
-- Deployed the solution using AWS SageMaker with a web-based user interface.
+### 💰 [T.R.U.S.T. – Credit Risk Framework](https://github.com/kautilyaa/TRUST)
+**Interpretable ML for financial decisioning**  
+Temporal feature engineering + explainable models for regulatory-ready credit scoring.  
+`Feature Engineering` `Interpretable ML` `Risk Modeling`
 
-### 3. [Real-Time Object Detection](https://github.com/arunbh/object-detection)
-- Designed and trained a YOLO-based object detection model for real-time applications.
-- Integrated with a Flask API for seamless deployment on cloud infrastructure.
+### 🤖 [TERminus – Local AI Agent Framework](https://github.com/kautilyaa/TERMINUS)
+**Terminal-based MCP agent with modular reasoning**  
+Experimentation platform for structured reasoning with clear action boundaries.  
+`Agentic AI` `MCP` `Python` `Local LLM Integration`
 
----
--->
-<!--
-
-## 📈 GitHub Stats
-
-![Arunbh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunbh&show_icons=true&theme=github_dark)
+### 📈 [BitPulse – Crypto Sentiment Forecasting](https://github.com/kautilyaa/BitPulse)
+**Real-time market signals + news sentiment → price movements**  
+Backtested framework combining time-series models with external sentiment signals.  
+`Time-Series Analysis` `Sentiment Analysis` `Backtesting`
 
 ---
--->
 
-<!--
+## 📊 What I'm Working On
 
-## 🌐 Let's Connect!
-
-- **LinkedIn**: [linkedin.com/in/arunbh](https://linkedin.com/in/arunbh-yashaswi/)  
-- **Email**: [arunbh.y@gmail.com](mailto:arunbh.y@gmail.com)  
-- **GitHub**: [github.com/arunbh](https://github.com/arunbh)
-
--->
-
-
-<!--
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arunbh-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunbh-yashaswi)
-[![GitHub](https://img.shields.io/badge/GitHub-Arunbh-black?logo=github&logoColor=white)](https://github.com/arunbh)
-[![Email](https://img.shields.io/badge/Email-Arunbh-red?logo=gmail&logoColor=white)](mailto:arunbh.y@gmail.com)
+- 🔬 Research on **document layout understanding** for medical forms
+- 🏗️ Building **production MLOps pipelines** for UMD projects
+- 📝 Contributing to **open-source ML tools** (watch this space!)
+- 🎓 Graduating **May 2026** and exploring **Data Scientist / ML Engineer roles**
 
 ---
--->
 
+## 📈 GitHub Activity
+
+![Arunbh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kautilyaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+---
+
+## 🎯 Open to Opportunities
+
+Currently seeking **Data Scientist**, **ML Engineer**, or **Computer Vision Engineer** roles where:
+- Production reliability matters as much as model performance
+- Healthcare, GovTech, or regulated domains are in focus
+- End-to-end ownership (research → deployment) is valued
+- Mentorship and collaboration drive team culture
+
+**📧 Reach out:** [arunbhy@umd.edu](mailto:arunbhy@umd.edu) | **🔗 LinkedIn:** [arunbh-yashaswi](https://linkedin.com/in/arunbh-yashaswi)
+
+---
+
+## 💬 Let's Connect
+
+I'm always excited to discuss:
+- 🏥 **Healthcare AI** and clinical NLP challenges
+- 🤖 **Agentic systems** and reasoning frameworks
+- 📊 **Production ML** war stories and lessons learned
+- 🎓 **Career advice** for aspiring data scientists
+
+*"Some data science work lives in notebooks. The work that matters shows up in production."*
+
+---
+
+<div align="center">
+
+**⭐ If you find my projects useful, consider starring them!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=kautilyaa&color=70a5fd&style=flat-square&label=Profile+Views)
+
+</div>
