@@ -88,12 +88,12 @@ Backtested framework combining time-series models with external sentiment signal
 
 ## 📈 GitHub Activity
 
-![Arunbh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kautilyaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+<!--![Arunbh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kautilyaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
 ---
-
+-->
 ## 🎯 Open to Opportunities
 
 Currently seeking **Data Scientist**, **ML Engineer**, or **Computer Vision Engineer** roles where:
@@ -109,10 +109,10 @@ Currently seeking **Data Scientist**, **ML Engineer**, or **Computer Vision Engi
 ## 💬 Let's Connect
 
 I'm always excited to discuss:
+- 👁️ **Computer Vision** for document intelligence and OCR pipelines
 - 🏥 **Healthcare AI** and clinical NLP challenges
 - 🤖 **Agentic systems** and reasoning frameworks
 - 📊 **Production ML** war stories and lessons learned
-- 🎓 **Career advice** for aspiring data scientists
 
 *"Some data science work lives in notebooks. The work that matters shows up in production."*
 
