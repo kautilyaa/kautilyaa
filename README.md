@@ -57,11 +57,15 @@ Here are some ideas to get you started:
 
 ---
 -->
+<!--
+
 ## 📈 GitHub Stats
 
 ![Arunbh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunbh&show_icons=true&theme=github_dark)
 
 ---
+-->
+
 <!--
 
 ## 🌐 Let's Connect!
